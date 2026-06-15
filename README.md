@@ -466,12 +466,5 @@ Example manual test flow:
 
 ---
 
-# Future Improvements
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0fb14c9-4178-4f3e-b216-4fbd7f7fb021" />
 
-* Full OpenAI Integration
-* WebSocket Real-Time Updates
-* Notifications
-* Advanced User Management
-* Task Categories
-* File Attachments
-* Activity Logs
